@@ -38,8 +38,15 @@ typos were fixed.
 - Unconfirmed: which SDK her App Store copy of Expo Go supports. If Expo Go reports that the
   project is incompatible, upgrade to that SDK with `npx expo install expo@^<SDK>.0.0 --fix`, then
   check the app still runs (expo-router and react-navigation APIs may change between SDKs).
-- Not on GitHub yet; the suggested route is GitHub Desktop (the project's .gitignore excludes
-  node_modules).
+- On GitHub (public): https://github.com/keborrayohernan-hub/lets-finance, uploaded 2026-11-17 as
+  one commit through the GitHub API using a standalone gh CLI at
+  `~/tools/gh_2.104.0_macOS_arm64/bin/gh` (signed in). This local folder is NOT a git repo yet:
+  git wasn't installed (Apple's Command Line Tools install was still pending). To sync later,
+  install git, then clone the repo or connect this folder to it.
+- Deployed to Vercel (project kelly-7eaf/lets-finance) from the GitHub repo. `vercel.json` builds
+  the web version with `npx expo export --platform web` into `dist/` and rewrites every path to
+  `/index.html` (web output is "single", a single-page app). Vercel Authentication (deployment
+  protection) is on, so only signed-in Vercel team members can view it unless it's turned off.
 
 ## Ideas discussed for adding AI (not built yet)
 A budget explainer and chat on Budget; Advice cards driven by real spending; "Needs Attention" with
