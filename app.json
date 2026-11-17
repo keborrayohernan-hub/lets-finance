@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Let's Finance",
+    "slug": "lets-finance",
+    "scheme": "letsfinance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": false },
+    "android": { "edgeToEdgeEnabled": true },
+    "web": { "bundler": "metro", "output": "single" },
+    "plugins": ["expo-router", "expo-font"],
+    "experiments": { "typedRoutes": false }
+  }
+}

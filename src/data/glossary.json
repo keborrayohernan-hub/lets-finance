@@ -1,0 +1,313 @@
+[
+ {
+  "range": "A-C",
+  "sections": [
+   {
+    "letter": "A",
+    "terms": [
+     {
+      "term": "Allowance",
+      "definition": "Money given on a regular schedule, often by a parent or guardian, that a young person can practice earning, spending, saving, or budgeting."
+     },
+     {
+      "term": "APR (Annual Percentage Rate)",
+      "definition": "The yearly cost of borrowing money, including interest and certain fees, shown as a percentage."
+     },
+     {
+      "term": "ATM (Automated Teller Machine)",
+      "definition": "A machine that lets you withdraw cash, deposit money, and check your balance using a debit or ATM card."
+     },
+     {
+      "term": "Auto Insurance",
+      "definition": "Insurance that helps cover certain costs after a vehicle accident, theft, or other covered loss. Coverage requirements and policy terms vary."
+     }
+    ]
+   },
+   {
+    "letter": "B",
+    "terms": [
+     {
+      "term": "Bank Account",
+      "definition": "An account at a bank or credit union used to hold and manage money, such as a checking or savings account."
+     },
+     {
+      "term": "Bankruptcy",
+      "definition": "A federal legal process that may help a person or business address debts under court supervision. The effects depend on the type of case and the person's circumstances."
+     },
+     {
+      "term": "Budget",
+      "definition": "A plan for how income will be used for spending, saving, and debt payments during a set period."
+     },
+     {
+      "term": "Buy Now, Pay Later (BNPL)",
+      "definition": "A short-term financing option that splits a purchase into smaller payments over time. Missed payments can lead to fees."
+     }
+    ]
+   },
+   {
+    "letter": "C",
+    "terms": [
+     {
+      "term": "Checking Account",
+      "definition": "A bank or credit union account designed for regular deposits, purchases, bill payments, transfers, and withdrawals."
+     },
+     {
+      "term": "Compound Interest",
+      "definition": "Interest calculated on the original amount and on interest that has already been added. It can help savings grow or make debt cost more."
+     },
+     {
+      "term": "Credit",
+      "definition": "The ability to borrow money or receive goods or services now with an agreement to pay later, often with interest or fees."
+     },
+     {
+      "term": "Credit Card",
+      "definition": "A revolving credit account that lets you borrow up to a limit for purchases or other transactions. Interest and fees depend on the account terms and how the balance is repaid."
+     },
+     {
+      "term": "Credit Limit",
+      "definition": "The maximum amount a lender allows you to borrow on a revolving account such as a credit card."
+     },
+     {
+      "term": "Credit Report",
+      "definition": "A record of credit accounts, payment history, balances, inquiries, and certain public-record information maintained by a consumer reporting company."
+     },
+     {
+      "term": "Credit Score",
+      "definition": "A number calculated from information in a credit report to estimate credit risk. Scoring models and number ranges vary."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "range": "D-F",
+  "sections": [
+   {
+    "letter": "D",
+    "terms": [
+     {
+      "term": "Debt",
+      "definition": "Money or another financial obligation owed to a person, company, or government."
+     },
+     {
+      "term": "Deductible",
+      "definition": "The amount you pay out of pocket on an insurance claim before your insurance starts paying."
+     },
+     {
+      "term": "Discretionary Spending",
+      "definition": "Spending that is not required for basic needs or fixed obligations, such as entertainment or optional purchases."
+     }
+    ]
+   },
+   {
+    "letter": "E",
+    "terms": [
+     {
+      "term": "Emergency Fund",
+      "definition": "Money set aside for unexpected expenses or a temporary loss of income."
+     },
+     {
+      "term": "Entrepreneur",
+      "definition": "A person who starts and operates a business and takes responsibility for its planning, costs, and risks."
+     }
+    ]
+   },
+   {
+    "letter": "F",
+    "terms": [
+     {
+      "term": "FAFSA",
+      "definition": "Used to apply for federal grants, work-study funds, and student loans. States and schools may also use FAFSA information for aid decisions."
+     },
+     {
+      "term": "Fees",
+      "definition": "Charges for a service, transaction, account feature, late payment, or other activity."
+     },
+     {
+      "term": "Financial Aid",
+      "definition": "Money that helps pay for college or career school, including grants, scholarships, work-study earnings, and student loans."
+     },
+     {
+      "term": "Fixed Expenses",
+      "definition": "Expenses that are usually due on a regular schedule and stay fairly predictable, such as rent, insurance, or a phone plan."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "range": "G-L",
+  "sections": [
+   {
+    "letter": "G",
+    "terms": [
+     {
+      "term": "Grace Period",
+      "definition": "A period when certain credit card purchases may avoid interest if the required balance is paid by the due date. Not every transaction or account has a grace period."
+     },
+     {
+      "term": "Grant",
+      "definition": "Financial aid that generally does not have to be repaid, although eligibility rules and other conditions may apply."
+     },
+     {
+      "term": "Gross Income",
+      "definition": "Income before taxes, benefits, and other deductions are taken out."
+     }
+    ]
+   },
+   {
+    "letter": "I",
+    "terms": [
+     {
+      "term": "Interest",
+      "definition": "The cost of borrowing money, or the money earned on savings, usually shown as a yearly percentage rate."
+     },
+     {
+      "term": "Internship",
+      "definition": "A temporary work-based learning experience that may be paid or unpaid, depending on the employer and arrangement."
+     },
+     {
+      "term": "Investment",
+      "definition": "An asset purchased with the goal of producing income or growing in value over time. Investments can also lose value."
+     }
+    ]
+   },
+   {
+    "letter": "L",
+    "terms": [
+     {
+      "term": "Liability",
+      "definition": "A debt or other financial obligation that a person or business is responsible for paying."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "range": "M-P",
+  "sections": [
+   {
+    "letter": "M",
+    "terms": [
+     {
+      "term": "Minimum Payment",
+      "definition": "The smallest amount a lender requires you to pay on a credit account by the due date. Paying only the minimum can increase the time and interest needed to repay a balance."
+     },
+     {
+      "term": "Mobile Banking",
+      "definition": "Using a bank or credit union's mobile app to check balances, deposit checks, transfer money, or pay bills."
+     }
+    ]
+   },
+   {
+    "letter": "N",
+    "terms": [
+     {
+      "term": "Net Income",
+      "definition": "Income left after taxes and other deductions. On a paycheck, it is often called take-home pay."
+     }
+    ]
+   },
+   {
+    "letter": "O",
+    "terms": [
+     {
+      "term": "Online Banking",
+      "definition": "Using a bank or credit union's website to view and manage accounts, transfer money, and pay bills."
+     },
+     {
+      "term": "Overdraft",
+      "definition": "When a transaction exceeds the money in an account, the bank may decline it or cover it and charge a fee."
+     }
+    ]
+   },
+   {
+    "letter": "P",
+    "terms": [
+     {
+      "term": "Paycheck",
+      "definition": "Payment for work that shows gross pay, taxes and other deductions, and the net amount the worker receives."
+     },
+     {
+      "term": "Peer-to-Peer Payment Apps",
+      "definition": "Digital services used to send money directly to another person. Transfers can be difficult to reverse, so the recipient should be checked before sending."
+     },
+     {
+      "term": "Principal",
+      "definition": "The original amount borrowed or invested, not including interest. A loan's remaining principal falls as payments reduce the balance."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "range": "R-W",
+  "sections": [
+   {
+    "letter": "R",
+    "terms": [
+     {
+      "term": "Renters Insurance",
+      "definition": "Insurance that may cover a renter's personal belongings, liability, and certain additional living expenses after a covered loss. It does not insure the building itself."
+     },
+     {
+      "term": "Roth IRA",
+      "definition": "An individual retirement account funded with after-tax money. Qualified withdrawals are generally tax-free, and contribution rules and limits apply."
+     }
+    ]
+   },
+   {
+    "letter": "S",
+    "terms": [
+     {
+      "term": "Savings Account",
+      "definition": "A deposit account used to hold money for future needs while earning interest. Rates, fees, and withdrawal rules vary by institution."
+     },
+     {
+      "term": "Scholarship",
+      "definition": "Financial aid for education that generally does not have to be repaid, although the award may have eligibility or use requirements."
+     },
+     {
+      "term": "Scam",
+      "definition": "A dishonest scheme meant to trick people into giving away money or personal information."
+     },
+     {
+      "term": "Student Loan",
+      "definition": "Money borrowed to pay eligible education costs. Student loans must be repaid with interest unless a specific discharge, cancellation, or forgiveness program applies."
+     }
+    ]
+   },
+   {
+    "letter": "T",
+    "terms": [
+     {
+      "term": "Taxes",
+      "definition": "Required payments to federal, state, or local governments that may be based on income, purchases, property, or other activity."
+     }
+    ]
+   },
+   {
+    "letter": "V",
+    "terms": [
+     {
+      "term": "Variable Expenses",
+      "definition": "Costs that can change from month to month, such as groceries, gas, entertainment, or utility use."
+     }
+    ]
+   },
+   {
+    "letter": "W",
+    "terms": [
+     {
+      "term": "Wants vs. Needs",
+      "definition": "A way to separate expenses required for basic living or obligations from optional purchases and experiences."
+     },
+     {
+      "term": "Withholding",
+      "definition": "Money an employer sends from a worker's pay to tax authorities before the worker receives the paycheck."
+     }
+    ]
+   }
+  ]
+ }
+]

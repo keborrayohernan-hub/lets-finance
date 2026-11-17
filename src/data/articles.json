@@ -1,0 +1,1767 @@
+{
+ "beginner": {
+  "id": "beginner",
+  "title": "A Beginner’s Guide to Personal Finance",
+  "author": "Rafael Faus",
+  "image": "hdr_beginner",
+  "quiz": 0,
+  "blocks": [
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Are you a young professional looking to start investing or saving for retirement? These four practical steps will get you started."
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Starting to invest can seem challenging, especially early in working life when you’re still laying secure financial foundations. Nonetheless, by following a structured and progressive approach, you can build a solid financial future. IESE’s Rafael Faus has four key tips for organizing your finances and taking your first steps into the world of investments.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "1. Define your goals and assess your current financial situation"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Before you can even think about investing, it’s crucial to clarify your goals and where you currently stand. Ask yourself: “What do I want",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "to achieve with my money?” and “What are my short- and long -term priorities?”",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Imagine your 80th birthday party, Faus suggests. What would you like people to say about you that day? This long-term scenario planning will help you identify what’s most important for you, and you can then set financial goals that reflect these priorities.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Additionally, don’t be afraid to think in “ideal” terms. What would you do if you had all the money you needed? What would you regret not doing if you had limited time left? Questions like these can help you define current and future financial decisions for the life you want.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "2. Create an emergency fund before investing"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Before you dive into investing, it’s important to safeguard enough money to cover at least six months of your expenses. This money should be in a checking account without a debit card to avoid temptation.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you have children who are under 18, you should have a will and designate legal guardians. Additionally, prepare for unexpected events with powers of attorney and make sure you have life and disability insurance covering at least five years of net income.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "3. Make a monthly and annual budget"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "A key step in financial planning is creating and sticking to a family budget. Start by identifying all your income sources and classifying your expenses into three categories: Fixed expenses: recurring every month. Necessary variable expenses: those that vary but are essential. Discretionary expenses: non-essential or superfluous spending.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Create a monthly budget where you allocate your income to different accounts to better control your finances. It’s recommended to have",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "one account for direct debits, another for daily expenses and a savings account for emergencies.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "4. Investment planning and strategies"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Once you’ve established your emergency fund and followed",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "your budget, you’ll be ready to put your money to work. To begin investing, it’s helpful to conduct an annual financial review and define contributions to, for example, a retirement fund. These contributions should be adjusted annually to keep pace with inflation. With an investment horizon of more than five years, you can consider riskier assets that offer higher returns. Remember, the higher the risk, the greater the potential return, but also the potential losses. Investing is not just about numbers; it’s also about emotions. Protect yourself from market emotions: greed and fear are the biggest enemies of investors and can lead to rash decisions.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Other investment tips"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "The ultimate goal of managing your personal finances and investing is",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "to build a solid and secure financial future that allows you to achieve both personal and professional goals with the peace of mind you desire. Start early: The sooner you start investing, the more time you’ll have to benefit from compound interest. Diversify your investments: Don’t put all your eggs in one basket. Invest in a mix of stocks, bonds and other assets. Avoid market timing: Trying to predict the market rarely works. Instead, opt for a long-term strategy. Keep learning: Stay informed and continue learning about finance and investments.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "k401": {
+  "id": "k401",
+  "title": "What is a 401(k) plan and how does it work?",
+  "author": "Hayden Adams",
+  "image": "hdr_401k",
+  "quiz": 1,
+  "blocks": [
+   {
+    "type": "h",
+    "size": 18,
+    "text": "What is a 401(k) plan and how does it work?"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "A 401(k) is an employer-sponsored retirement plan that comes with tax benefits. Basically, you put money into a 401(k) where it can be invested and potentially grow tax-free over time. In most cases, you choose how much money you want to contribute to your 401(k) plan based on a percentage of your income. Your employer will then automatically withhold a portion of each paycheck and put it into the account, making it easy to regularly contribute to your account.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Tax-deferred vs. Roth 401(k) plan"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "With a traditional tax-deferred 401(k), the money is taken out of your paycheck before federal income taxes are figured, providing you the chance to reduce your taxes today. You pay ordinary income taxes on the pre-tax contributions and growth when you make a withdrawal in retirement.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Most employers offer a Roth 401(k) as well. Contributions to Roth accounts are made with after-tax dollars, which means you don't get a",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "tax deduction. Instead, your money can potentially grow tax free and be withdrawn in retirement without any taxes.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Employer matching and vesting"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If your employer offers a 401(k) match, it means they'll put money into your retirement account based on the amount you put in. How the matching works will depend on the specifics of your employer's plan. For example, an employer could offer a dollar-for-dollar match, up to a certain dollar limit. Or an employer match can be based on a percentage of the contributions you make and a percentage of your wages.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "A typical 401(k) match formula is 50% of your contributions, up to 6% of your pay. Under that formula, if you earn $6,000 per month and contribute $360 (6% of your wages), your employer will add $180, for a combined contribution of $540 per month. To capture the full match, you'd need to contribute at least 6% of your pay.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "401(k) vesting"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Vesting is a term that describes how much of the money in your account is actually yours, if you were to leave the company.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Employee contributions are immediately vested and always considered yours. Employer matching and employer contributions may be subject",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "to a vesting schedule, which means you may need to stay with the company for a certain period of time before those contributions fully belong to you. Some employers, however, provide immediate vesting",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "of matching contributions. Check with your plan administrator for",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "the vesting requirements in your particular 401(k) plan.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "401(k) contributions"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "How much you contribute to your 401(k) can have a major impact on your retirement savings over time. Before deciding how much to save, it can help to understand the annual contribution limits, guidelines for how much to set aside, and whether to consider maxing out your 401(k).",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "How much should I contribute to my 401(k) plan?"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "How much you should contribute to your 401(k) depends on your retirement goals and how much you hope to accumulate in your",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "nest egg by the time you retire. While you don't have to contribute the maximum allowed by the IRS, it's worth noting that the more you",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "invest now, the greater the head start you'll likely have toward a comfortable retirement.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "The longer you wait to save, the more you'll need to save annually for retirement. Every situation will vary, but here are age-based guidelines on how much you should save based on when you start saving for retirement:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you start in your 20s, save 10% to 15% of your salary, including employee match, per year for retirement. If you start in your 30s, save 15% to 20% of your salary, including employee match, per year for retirement. If you start in your early 40s, save 25% to 35% of your salary,",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "including employee match, per year for retirement. If you start later, save as much as possible, and consider other strategies, such as retiring later.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you have more questions, be sure to ask a tax professional or financial advisor for more information about savings strategies for your 401(k).",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Maxing out your 401(k) plan"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Maxing out means contributing up to the annual IRS limit. In 2026,",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "that means:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "$24,500 if you're under 50 $32,500 if you're 50 or older ($24,500 + $8,000 catch-up contribution) $35,750 if you're age 60 to 63 ($24,500 + $11,250 super catch-up contribution)",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "For most workers, maxing out isn't realistic every year, and it doesn't need to be. A more practical approach is to start with the employer match, then increase your contribution rate by one or two percentage points each year—ideally timed with a raise so the increase doesn't reduce your take-home pay. Bonuses and tax refunds are also natural moments to bump up your contribution.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you do have room to max out, the earlier in the year you front-load contributions, the more time your money has to grow. But watch your match: some plans match per paycheck rather than annually, so front-loading can mean missing match dollars later in the year. Check your plan's matching rules before changing your pace.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Review your contribution each year"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "A 401(k) election isn't something to set and forget. The IRS raises the contribution limit most years, so a flat-dollar election that maxed you out last year may leave room on the table this year. A raise can also change what a percentage-based contribution actually puts in the account, and catch-up eligibility kicks in at age 50 and again at 60. Open enrollment is a natural moment to revisit your election.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Accessing 401(k) funds before retirement"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Generally, if you take money from your 401(k) account before you reach age 59½, you'll have to pay taxes on the pre-tax contributions and any growth, plus pay a 10% penalty. But there are some exceptions to the early withdrawal penalty.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Early withdrawal penalty exceptions"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "One exception is known as the rule of 55. Under this rule, if you lose or leave your job at age 55 or older and take distributions from the 401(k) associated with your most recent job, you won't have to pay the 10% penalty. Other circumstances that might allow you to avoid the 10% penalty include:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Certain qualified birth or adoption expenses A series of substantially equal payments (known as the 72(t) exemption) Permanent disability",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "You may need to provide documentation to avoid penalty in these",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "cases, so make sure you're prepared to do so. To learn more about",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "the exemptions to the 10% penalty, see the IRS website.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Hardship withdrawals and loans"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Some plans allow hardship withdrawals for an immediate and heavy financial need. Hardship withdrawals are generally taxable and may still be subject to the 10% penalty, unless another exception applies.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Some plans may also allow loans, which let you borrow from your account and repay the money over time. Unlike a withdrawal, a 401(k) loan generally isn't taxable if it follows plan rules and is repaid on time. However, not all plans allow loans, and unpaid loan amounts may be treated as taxable distributions.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Before taking a 401(k) withdrawal or loan, review your plan rules and consider the potential tax consequences and impact on your retirement savings.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Accessing 401(k) funds before retirement"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Once you reach retirement age, your 401(k) shifts from a savings account to an income source—and you have decisions to make about how to access the money.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Withdrawal options"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Most plans give you several ways to take distributions once you've separated from your employer at or after 59½. Common options",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "include taking periodic distributions on a schedule, taking lump-sum distributions as needed, or, in some plans, converting your balance to an annuity that pays a set amount over time. You can also leave the money in your former employer's plan if permitted, or roll your 401(k) into an IRA for more investment flexibility and simpler distribution management. The right choice depends on your income needs, the investment choices in your current plan, and how you want to coordinate with other retirement income sources.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Required minimum distributions"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "In general, once you reach age 73 (or 75, if you were born in 1960 or later), you must begin taking required minimum distributions (RMDs) from all tax-deferred retirement accounts, including 401(k)s. Generally speaking, you can calculate your RMDs for a given year by taking your 401(k) account balance on December 31st of the prior year and dividing it by your \"distribution period\"—a number the IRS assigns to each age.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "For example, let's say you're 75, single, and ended last year with $1 million in your 401(k). According to the IRS, your distribution period is 24.6—which means your RMD for the year would be $40,650 ($1,000,000 ÷ 24.6).",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you have multiple tax-deferred retirement accounts, RMDs must be calculated separately for each one. Many financial institutions, including Schwab, will help calculate your RMDs for you—and may even offer automated withdrawals—but typically only for the accounts held at",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "their firms.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Coordinating with other accounts"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Most retirees draw income from more than one source: a 401(k) or IRA, taxable brokerage accounts, Roth accounts, and Social Security. The order in which you tap each can affect your lifetime tax bill, since traditional 401(k) withdrawals count as ordinary income while Roth withdrawals generally don't. A common retirement withdrawal strategy",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "is to draw from taxable accounts first, then tax-deferred accounts, then Roth—but the right sequence depends on your tax bracket, your RMD obligations, and your other income. Consider working with a tax professional or financial advisor to map out a withdrawal strategy that",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "fits your situation.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "teen_saving": {
+  "id": "teen_saving",
+  "title": "Saving Money as a Teenager",
+  "author": "Chase Bank",
+  "image": "hdr_teen_saving",
+  "quiz": 3,
+  "blocks": [
+   {
+    "type": "h",
+    "size": 24,
+    "text": "Quick insights"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Setting clear savings goals and creating a plan can help teenagers start building healthy money habits. Using a savings account and digital tools may make it easier for teens to organize, track and automate savings. Consistently saving small amounts, even if your teen’s goals change, can support their financial confidence and future stability.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Learning how to save money can feel overwhelming for a teenager.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "As they’re just getting started with personal finance, they might be unsure where to begin, how much to save or what tools can help",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "them stay organized.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "The good news is that building money-saving habits now can help teenagers feel more prepared for the future—whether they're aiming",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "for a specific purchase, planning for college or simply hoping to set",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "aside funds for unexpected expenses.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "By understanding the basics of saving and using digital banking",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "tools, your teen can set the foundation for smart money management throughout their life.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "How to help your teenager save money"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "The first step in saving money is to set a clear, attainable goal. Encourage your teen to think about what they want to accomplish—maybe it’s saving for a new phone, planning a trip or preparing for college expenses. Having a goal can help them stay motivated, monitor their progress and celebrate milestones along the way.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Once they know their goal, it’s time to make a savings plan. Together, you can look at how much money they typically receive, such as income from a part-time job, an allowance or gifts. Then, estimate how much they might be able to set aside regularly. Even saving a few dollars each week can add up over time and get them closer to their goal.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "To help get them started, consider these practical steps for building a savings plan: Decide on a clear savings goal. Calculate regular income and expenses so they know what they can realistically save. Set a specific amount for them to save each week or month and help them stick to it.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Budgeting for savings"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Budgeting can be another important part of learning how to save money as a teenager. A budget is a plan for how to use money each month. One approach your teen may find helpful is the 50/30/20 budget rule. This method allocates income into three buckets: needs, wants and goals. Each bucket is allocated a different percentage of your teen’s income. This method can help ensure your teen is not spending more than they have and that they’re consistently putting money toward their goals.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Many mobile banking apps feature budgeting tools or spending trackers. These may help you monitor where your teen’s money is going, identify categories where they might cut back and find extra amounts to save.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Exploring different account types"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "As your teen’s savings grow, you may want to encourage them to consider other types of savings accounts. For instance, a certificate of deposit (CD) requires leaving funds in an account for a set period. In exchange, the bank might offer a higher interest rate than a regular savings account, though the rate depends on term and market conditions.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "However, your teen generally won’t be able to access the money before the term ends without a penalty, so CDs are best for longer-term goals. Additionally, as teenagers cannot purchase CDs on their own, you will need to act as a custodian.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Adapting your teen’s goals as they grow"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "It’s normal for savings goals to change over time. Your teen might start by saving for a smaller purchase, then shift their focus to bigger milestones as they gain more confidence in managing their money. Here are some common goals teens might save for:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Building an emergency fund for unexpected expenses like car repairs or school activities Saving for college supplies or future education costs Planning for special purchases such as electronics, clothes or fun with friends",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "It can be helpful to start with a small amount. Over time, these habits may help teens become more confident in managing their money and making choices that support their goals.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "banking": {
+  "id": "banking",
+  "title": "Banking Basics for Teens: Your First Steps Towards Financial Independence",
+  "author": "Peshtigo National Bank",
+  "image": "hdr_banking",
+  "quiz": 4,
+  "blocks": [
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Managing money is one of the most important life skills you can learn, and there’s no better time to start than during your teenage years. At Peshtigo National Bank, we’re here to help you take your first steps toward financial independence. Whether you’re saving for college, your first car, or just want to manage your allowance wisely, opening a bank account is a great place to start.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Here’s everything you need to know about banking basics for teens:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Why Open a Bank Account?"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Opening a bank account gives you a safe place to keep your money while making it easier to track your spending and savings. Here are some benefits of having your own account:z ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Security:",
+      "b": true
+     },
+     {
+      "t": " Your money is protected and insured, unlike cash in your wallet. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Convenience:",
+      "b": true
+     },
+     {
+      "t": " Access your money anytime with a debit card or online banking. Teens aged 14 and older can get a debit card with a parent co-signer. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Savings Growth:",
+      "b": true
+     },
+     {
+      "t": " Earn interest on your savings while developing good financial habits. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Money Management Skills:",
+      "b": true
+     },
+     {
+      "t": " Learn to budget, save, and plan.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Types of Bank Accounts for Teens"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "There are two main types of accounts you’ll likely encounter: ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Student Checking Account:",
+      "b": true
+     },
+     {
+      "t": " Perfect for everyday spending. Includes a debit card for purchases and ATM withdrawals. Often allows you to set up direct deposits for paychecks.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "2. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Young Savers Account:",
+      "b": true
+     },
+     {
+      "t": " Ideal for setting aside money for longer-term goals. Earns interest on your balance to help your savings grow. Encourages the habit of saving before spending.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "How to Open a Bank Account"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Opening a bank account as a teen is simple and straightforward. Here’s what you’ll need:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Parent or Guardian:",
+      "b": true
+     },
+     {
+      "t": " Teens under 18 need a parent or guardian to co-sign the account. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Identification:",
+      "b": true
+     },
+     {
+      "t": " Bring a valid ID, such as passport or driver’s license. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Social Security Card:",
+      "b": true
+     },
+     {
+      "t": " This is required to open a bank account. We need to scan the physical card. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Initial Deposit:",
+      "b": true
+     },
+     {
+      "t": " Accounts require a small deposit to get started in the amount of a $100.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Stop by your nearest Peshtigo National Bank branch, and our friendly team will walk you through the process step-by-step.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Using Your Bank Account Wisely"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Once your account is open, here are some tips to manage it responsibly: ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Track Your Spending:",
+      "b": true
+     },
+     {
+      "t": " Use online or mobile banking to monitor your transactions and keep tabs on your balance. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Set Savings Goals:",
+      "b": true
+     },
+     {
+      "t": " Decide on something you want to save for and set aside money each week to reach your goal. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Avoid Overdrafts:",
+      "b": true
+     },
+     {
+      "t": " Only spend money you have in your account to avoid fees. ",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Learn About Interest:",
+      "b": true
+     },
+     {
+      "t": " Understand how interest works and how it can help your savings grow over time.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Peshtigo National Bank’s Teen Banking Options"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "At Peshtigo National Bank, we offer accounts designed with teens in mind. Our accounts come with:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "No Monthly Fees Easy-to-Use Online Banking Tools Access to Friendly Bankers Ready to Help",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "We’re here to make your banking experience simple and rewarding. If you’re ready to start your financial journey, visit us at one of our branches or give us a call to learn more.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Final Thoughts"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Banking is an essential life skill, and starting as a teen gives you a head start on managing your money confidently. At Peshtigo National Bank, we’re here to support you every step of the way. Let’s build a strong financial foundation together!",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Ready to get started? Stop by any Peshtigo National Bank branch today and take your first steps toward financial independence!",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "retirement": {
+  "id": "retirement",
+  "title": "How to Start Saving for Retirement in Your Teens and 20s",
+  "author": "Slavic401k",
+  "image": "hdr_retirement",
+  "quiz": 5,
+  "blocks": [
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "When you’re in your late teens and early twenties, retirement may feel like a lifetime away –",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "and in some ways, it is. But the sooner you start saving for your future, the sooner you will be able to retire and the",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "less you’ll have to worry about affording your lifestyle when you",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "stop working.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Before getting started, it’s important to know that getting a head start is an amazing accomplishment, and while you have big expenses ahead of you – maybe buying your first car, going to college, moving out of your parent’s house, and more – it doesn’t take a lot to make a difference in the future. Small savings now grow into big savings 40+ years from now. If you’re wondering how to get started, read our tips below. Planning for your future can be easy and stress-free if you do your research, understand your options, and make small changes over time. Here’s everything you need to know about banking basics for teens:",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Setting Goals"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Before getting started, it’s important to set goals and understand your wants and needs. Consider the following: Are you looking for an account you can manage on your own? Do you want a financial advisor to help you along the way? Do you want flexibility with your savings, or do you want to set it and forget it? How old would you like to be when you retire? How much can you afford to set aside right now? Do you expect your expenses to increase anytime soon? i.e. buying a car, going to college, paying higher rent, traveling, etc.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "You should consider all these questions before starting your retirement savings journey, especially at a young age. As you work through the questions, you will have a better understanding of what you can afford to contribute, and which account types you should utilize.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you have extra room in your budget, hiring a financial advisor can be a great resource. Not only can they help you set up your account, but they can determine your investment strategy and whether it should be conservative, moderate, or aggressive. In many cases, the younger you are, the more aggressive it should be, but sitting down with an advisor will help you determine that based on your goals, budget, and timeline.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Open an IRA"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "A Roth IRA is a fantastic option for young savers. While having a savings account and utilizing your employer’s 401(k) plan (if you work for a company that offers one) is a good start, having additional avenues of retirement savings is recommended.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Roth IRAs are a great option because you can control the account on your own. While they have smaller annual contribution limits than a 401(k), when you’re young, a little can go a long way. The IRS determines new contribution limits every year, so check back for more information regarding qualifications, contributions, and restrictions.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Like any other retirement account, there are penalties if you withdrawal the funds before retirement age, so make sure you understand the rules before you start adding money to the account. Early withdrawals are subject to both taxes and early withdrawal fees, which can be up to 10% of the funds.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Example Roth IRA Savings:"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Here’s a mind-blowing example: If you are 21 years old making a salary of $35,000 per year and contributing $4,000 annually to a Roth IRA, you can accrue approximately $960,000 to your retirement savings efforts by the time you turn 67. That money is supplemental to your 401(k) savings, which, when combined, can be a solid cushion for retirement. To see your exact projections, use Nerdwallet’s Roth IRA calculator or use the Slavic401k Retirement Planning Calculators to map out your savings plan.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Small Savings Make a Big Difference"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Even though your contributions may be small in your teens and twenties, it can make a big difference over time with compound interest. Imagine you plant a tiny seed today, and over time, it grows into a massive tree that bears fruit year after year. That’s essentially what compound interest does for your money. When you start saving early, your money doesn’t just sit there—it works for you, growing exponentially over time. Your money earns interest, and then that interest earns interest, creating a snowball effect.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Make Every Dollar Work For You"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you’re looking for ways to enhance your retirement savings accounts, there are some ways you can earn extra income or make room in your budget. If you’re not already using a budget, it’s important to create one. Tracking your income and expenses can help you visualize where you may be overspending and under saving. By separating your expenses into categories, such as wants, needs, and debt payoff, you can see exactly how much you have to spend on each. Use the 50/30/20 budget rule to align your needs and goals.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Embrace Fintech: Making Saving Easy and Fun"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Thanks to the explosion of financial technology (fintech), optimizing",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "your finances has gone from a daunting chore to a click-and-done convenience. These cutting-edge fintech tools are here to make your journey to financial freedom simpler, smarter, and even a little fun. Apps like Mint, YNAB (You Need A Budget), and Acorns can help you track your spending, set savings goals, and invest spare change effortlessl",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Keep Growing and Saving"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "As you continue to grow your career and earn more money, always consider ways to increase your contributions and save for the future. Regularly review your budget and adjust your savings rate to match your income growth. If you need more help along the way, speak with a financial advisor to prepare for today, tomorrow, and the future.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "teaching_kids": {
+  "id": "teaching_kids",
+  "title": "Teaching Kids About Money",
+  "author": "Jackie Hamann",
+  "image": "hdr_teaching_kids",
+  "quiz": 6,
+  "blocks": [
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Parents often look for ways to help educate their children on the basics of money. Financial education is not typically a class taught in our schools. As children grow into their teens, they start to think about part-time jobs, spending money, and how they can purchase items they want. Here are some tips to help your teens make it into adulthood with a sound financial understanding.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Make Them Responsible"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Just like a first-grader who wants to choose what shirt to wear to school, teenagers want to be able to flex their financial muscles from time to time. The more you can teach and role model good financial behavior, the easier it will be for your teen to understand the responsibility of choosing wisely when it comes to money. Giving your teen choices on some minor financial decisions will help them be better prepared for making wider choices later on.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Teach Budgeting"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Budgeting can be scary, especially for those parents who don’t have their own budget. Think of it this way. Budgeting is just knowing how much money you have coming in, going out, and where it’s going. Providing a stipend for chores will help your teen understand the value of money. And it will give them the finances to begin setting a budget. If they know how much they will regularly receive, they can estimate how much they can spend. Making good choices is the topic of our next tip.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Wants vs. Needs"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Like setting a budget, choices on what a teen “wants” and “needs” should be easy to understand. In the most basic sense, needs are the things that help us sustain our day-to-day life, like food, clothing, and shelter. Beyond those needs are the things we want. Something like a new gaming device, tickets to a concert, or the latest smartphone. It’s also essential for you to help them understand that their wants may have to wait when money is tight.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Bank Account Basics"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "We have become a more online-dependent society. Many people rarely step into a bank or other financial institution. But it’s still essential for your teenager to understand banking basics. Here are a few things they should know: Minimum balance requirements What it means to be overdrawn How to look at ",
+      "b": false
+     },
+     {
+      "t": "overdraft",
+      "b": true
+     },
+     {
+      "t": " and other service fees How to ",
+      "b": false
+     },
+     {
+      "t": "access their account",
+      "b": true
+     },
+     {
+      "t": " information The difference between ",
+      "b": false
+     },
+     {
+      "t": "checking",
+      "b": true
+     },
+     {
+      "t": " and ",
+      "b": false
+     },
+     {
+      "t": "savings accounts",
+      "b": true
+     },
+     {
+      "t": " How to see what they’ve spent their money on To get the best balance of independence and supervision, you can set up a joint account that allows them to manage and monitor their money while you can follow along and help guide them. And that leads us to the next tip.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "How to Pay Bills"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Many of today’s teens will go through life without writing many checks. But it’s still a good thing to know. But if they don’t write paper checks, they should know how to ",
+      "b": false
+     },
+     {
+      "t": "set up payments",
+      "b": true
+     },
+     {
+      "t": " in their online account. After all, we must pay for our purchased items. This may also be an excellent time to help them understand basic financial payment information, such as utilities, property taxes, mortgages, auto loans, and other bills they may not even think about but will need to know about sooner than",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "they think.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Insurance Basics"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "We are bombarded by advertisements about ",
+      "b": false
+     },
+     {
+      "t": "credit cards",
+      "b": true
+     },
+     {
+      "t": " and building credit. Some credit card companies prey on young adults by sending them multiple offers to open accounts. This happens when they reach legal age because the companies know Mom or Dad is no longer looking over their shoulder. But teens need to be aware of how to review credit card offers, watching for interest rates that are way too high. Some companies offer credit cards to young adults with 30-50% interest rates. While you’re at it, help your teen understand the difference between a credit card and a ",
+      "b": false
+     },
+     {
+      "t": "debit card",
+      "b": true
+     },
+     {
+      "t": " tied to their bank account.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Help Them Save"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Teens need to know how important it is to ",
+      "b": false
+     },
+     {
+      "t": "save some money",
+      "b": true
+     },
+     {
+      "t": " from every paycheck. No one expects them to have fully-funded emergency savings account within six months. But understanding why it is a good idea will help them in the long run. Stress that money saved is used for true emergencies, like a major car repair, unexpected bills, or when they lose or change jobs. It’s one of the harsher realities of life, but they need to know that just because you have a job one day doesn’t mean you will the next. Or that the best friend they chose to live with never has their share of rent money on time. That’s why saving for emergencies is always a good practice.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Plant a Retirement Seed"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "We know that teenagers don’t think about retirement. Unless one of their parents is getting to that age, teens are typically worried about finding their first job. But helping your child think about saving for retirement is a good thing early on. Let them know that even a modest amount of money put into retirement savings will grow in time. Retirement is likely the most significant expense they’ll ever save for, so getting started as early as possible will pay big dividends.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "Knowing When to Ask for Help"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "This life lesson reaches beyond finances—helping your teen understand that it is okay to ask for help and when to do that is critical. Young adults will make financial mistakes. Purchasing a little-used app for their smartphone will be minor. Getting behind on car payments is a much bigger mistake. You need to help them know they can turn to you for advice and support when needed.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Peoples State Bank has banking professionals who can answer your questions about finances, opening ",
+      "b": false
+     },
+     {
+      "t": "checking",
+      "b": true
+     },
+     {
+      "t": " or ",
+      "b": false
+     },
+     {
+      "t": "savings accounts",
+      "b": true
+     },
+     {
+      "t": ", and help you and your teenager determine their course of action. Contact our customer service center at 888.929.9902 to learn more.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ },
+ "college": {
+  "id": "college",
+  "title": "5 Ways Students Can Save Money In College",
+  "author": "Kathryn Knight Randolph",
+  "image": "hdr_college",
+  "quiz": 2,
+  "blocks": [
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "As a college student, you know what it means to barely scrape by and pinch pennies. Many students take three months’ worth of dirty laundry home for Christmas break just to avoid paying at the laundromat and are responsible for keeping Nissin’s Cup Noodles in business. However, despite your attempts to live frugally, you could be missing out on money saving opportunities that are right in front of you. Check out these not-so-obvious ways to save money as a student.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 24,
+    "text": "How to Save Money in College"
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "1. Student Discounts"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Your student ID can serve as a golden ticket all around town.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Restaurants, museums and movie theaters all provide discounts to students – especially when you live in a college town. Typically, establishments advertise their student discounts, but in the event that you don’t see a discount, just ask.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Further, many retailers offer student discounts, including subscription services like Amazon Prime, Netflix, and Spotify. Check out Fastweb’s Student Discount channel, which features retailers and other providers who are working to help students save money on their expenses.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "2. Textbook Rentals"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "The amount of books your college courses require is astonishing. And so is the bill for those new textbooks. Instead of shelling out thousands of dollars each semester for brand new books, you can actually rent them from your campus bookstore or online. You’ll be able to save up to 90% on your textbook costs by renting.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "If you do have to purchase your textbooks, investigate textbook buy-back programs after the fact. You can sell your used textbooks and make money, which can either go towards next semester’s books or other student expenses.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "3. Housing"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Once you live in the dorms with a roommate for year, it can be very tempting to move off campus and live on your own. But it’s not as frugal.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Whether you find housing savings on campus or off, you’ll double those savings by living with one or two roommates. They’ll cover half the rent and utility costs, but you’ll still have your own sanctuary within the apartment.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "4. Food"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Your next meal doesn’t always have to come from the campus dining halls or take out restaurants. Many organizations and events across campus provide free food for attendees.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Just check bulletin boards, the student newspaper or newsletter, and social media accounts for notices of these events. And who knows? You may get more out of your college experience than free food by attending these events.",
+      "b": false
+     }
+    ]
+   },
+   {
+    "type": "h",
+    "size": 18,
+    "text": "5. Gas"
+   },
+   {
+    "type": "p",
+    "segments": [
+     {
+      "t": "Sometimes, college campuses are as big as small towns – or you may live several hours from your parents. In these cases, a car can be a great thing, but it can also be a real drain on your funds. Instead of driving all over campus, opt to walk or take campus transportation. Use your car only when it’s absolutely necessary. Chances are, you’ve worked hard to build up your savings to use on college life expenditures or you’re depending on student loans to fund your fun. With that in mind, you need to save in as many ways possible. Get creative and think outside the box when it comes to college spending, and you’ll save big time.",
+      "b": false
+     }
+    ]
+   }
+  ]
+ }
+}

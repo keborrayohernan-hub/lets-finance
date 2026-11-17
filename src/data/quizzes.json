@@ -1,0 +1,420 @@
+[
+ [
+  {
+   "question": "What should you establish before you start investing?",
+   "options": [
+    "A Financial Goal",
+    "A monthly loan",
+    "A retirement account",
+    "A stock portfolio"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "How many months of expenses should your emergency fund cover?",
+   "options": [
+    "Three Months",
+    "Ten Months",
+    "At Least Six Months",
+    "Two Months"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "Discretionary expenses are costs that are essential for everyday living.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "question": "What does it mean to diversify your investments?",
+   "options": [
+    "Keeping all money in cash",
+    "Buying and selling stocks everyday",
+    "Investing only in stocks",
+    "Spreading investments across different assets"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "question": "Starting to invest early gives your money more time to benefit from compound interest.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  }
+ ],
+ [
+  {
+   "question": "What is a 401(k) plan?",
+   "options": [
+    "A short-term personal loan",
+    "A government health insurance program",
+    "An employer-sponsored retirement savings plan",
+    "A personal checking accounts"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "What is the main difference between a traditional 401(k) and a Roth 401(k)?",
+   "options": [
+    "Traditional uses pre-tax money; Roth uses after-tax money",
+    "Neither account offers tax benefits",
+    "Traditional uses after-tax money; Roth uses pre-tax money",
+    "Both accounts use only after tax money"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "What does employer matching mean?",
+   "options": [
+    "Your employer guarantees investments profits",
+    "Your employer pays your entire salary",
+    "Your employer contributes money based on your contributions"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "Employee contributions to a 401(k) are immediately vested and always considered yours.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "According to the article, what is the general penalty for withdrawing 401(k) money before age 59½?",
+   "options": [
+    "A 5% penalty",
+    "No Penalty under any circumstances",
+    "A 15% penalty",
+    "A 10% penalty"
+   ],
+   "answer": [
+    3
+   ]
+  }
+ ],
+ [
+  {
+   "question": "What should you do if a business does not advertise a student discount?",
+   "options": [
+    "Assume there is a no discount",
+    "Ask if they offer a student discount",
+    "Show your student ID after paying",
+    "Wait for a special promotion"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "question": "How much can you potentially save by renting textbooks instead of buying new ones?",
+   "options": [
+    "Up to 25%",
+    "Up to 50%",
+    "Up to 75%",
+    "Up to 90%"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "question": "What is one way to reduce housing expenses in college?",
+   "options": [
+    "Live alone in an apartment",
+    "Move into a more expensive dorm",
+    "Share housing with one or two roomates",
+    "Pay all utility costs yourself"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "Where can students look to find free food events on campus?",
+   "options": [
+    "Bulletin boards and campus social media",
+    "Only at the dining hall",
+    "Online shopping websites",
+    "Their bank statements"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "What is one way to save money on gas in college?",
+   "options": [
+    "Drive everywhere on campus",
+    "Use your car for every short trip",
+    "Avoid campus transportation",
+    "Walk or use campus transportation"
+   ],
+   "answer": [
+    3
+   ]
+  }
+ ],
+ [
+  {
+   "question": "What is the first step a teenager should take when starting a savings plan?",
+   "options": [
+    "Open a credit card",
+    "Invest all their income",
+    "Spend money on necessities first",
+    "Set a clear savings goal"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "question": "What does the 50/30/20 budget rule divide income into?",
+   "options": [
+    "Needs, wants, and goals",
+    "Rent, bills, and entertainment",
+    "Income, taxes, and expenses",
+    "Savings, investments, and debt"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "Saving a few dollars each week can add up over time and help a teenager reach their savings goal.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "What is a certificate of deposit (CD)?",
+   "options": [
+    "A credit account used to pay monthly expenses",
+    "An account that requires funds to stay deposited for a set period",
+    "An account that automatically spends money on purchases"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "question": "Teenagers should keep the same savings goals throughout their lives, even when their financial needs change.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    1
+   ]
+  }
+ ],
+ [
+  {
+   "question": "What is one major benefit of opening a bank account as a teenager?",
+   "options": [
+    "Receiving unlimited free money",
+    "Keeping money safe and tracking spending",
+    "Avoiding all spending expenses",
+    "Building credit automatically"
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "question": "Which type of bank account is best suited for everyday purchases and ATM withdrawals?",
+   "options": [
+    "Student Checking Account",
+    "Long-Term Savings",
+    "Certificate of Deposit",
+    "Young Savers Account"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "Teens under 18 need a parent or guardian to co-sign their bank account.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "What is one way to avoid overdraft fees when using a bank account?",
+   "options": [
+    "Ignore your transaction history",
+    "Withdraw money whenever you want",
+    "Only spend money available in your account",
+    "Spend more than your account balance"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "A Young Savers Account can earn interest to help money grow over time.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  }
+ ],
+ [
+  {
+   "question": "Why is it important to start saving for retirement at a young age?",
+   "options": [
+    "You can earn more money immediately.",
+    "Your savings have more time to grow.",
+    "You won't have to work in your twenties.",
+    "You can avoid paying taxes."
+   ],
+   "answer": [
+    1
+   ]
+  },
+  {
+   "question": "What is a Roth IRA?",
+   "options": [
+    "An account used to pay monthly bills.",
+    "A loan provided by a financial institution.",
+    "A retirement savings account you can manage yourself.",
+    "An account used only for emergency expenses."
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "What is compound interest?",
+   "options": [
+    "Earning interest on both your original savings and previously earned interest",
+    "Paying interest on money borrowed from a bank.",
+    "Saving the same amount of money every month",
+    "Earning money only from your paycheck"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "According to the article, which tool can help you track spending and set savings goals?",
+   "options": [
+    "Social media apps",
+    "Shopping apps",
+    "Entertainment apps.",
+    "Financial technology (fintech) apps"
+   ],
+   "answer": [
+    3
+   ]
+  },
+  {
+   "question": "Why should you regularly review and adjust your budget?",
+   "options": [
+    "To increase your monthly expenses",
+    "To make sure your savings contributions keep up with your income",
+    "To avoid setting financial goals",
+    "To stop contributing to retirement accounts"
+   ],
+   "answer": [
+    1
+   ]
+  }
+ ],
+ [
+  {
+   "question": "What is the main purpose of creating a budget?",
+   "options": [
+    "To make sure you spend all your money",
+    "To avoid having a bank account",
+    "To track how much money comes in and comes out",
+    "To increase your credit card limit"
+   ],
+   "answer": [
+    2
+   ]
+  },
+  {
+   "question": "Which of the following is considered a NEED rather than a WANT?",
+   "options": [
+    "Food and shelter",
+    "A new gaming console",
+    "Concert tickets",
+    "The latest smartphone"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "Saving money from every paycheck can help teenagers prepare for unexpected expenses, such as car repairs or unexpected bills.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": [
+    0
+   ]
+  },
+  {
+   "question": "Which banking basics should teenagers learn? Select all that apply.",
+   "options": [
+    "The difference between checking and savings account",
+    "How to identify overdraft and service fees",
+    "How to access and monitor account information",
+    "How to avoid checking their account balance"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "question": "Why does the article recommend starting retirement savings early?",
+   "options": [
+    "It eliminates the need for budgeting",
+    "It allows people to stop working immediately",
+    "It guarantees a higher paycheck",
+    "Even small contributions can grow over time"
+   ],
+   "answer": [
+    3
+   ]
+  }
+ ]
+]
